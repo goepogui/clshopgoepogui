@@ -1,0 +1,46 @@
+* {
+	list-style: none;
+	text-decoration: none;
+	box-sizing: border-box;
+	font-family: tahoma, verdana;
+	padding: 0;
+	margin: 0;
+}
+#menu-lateral {
+	background-color: rgb(5, 68, 104);
+	width: 250px;
+	height: 100%;
+	top: 0;
+	left: 0;
+	padding: 20px 0;
+	position: fixed;
+}
+
+#menu-lateral h1  {
+     color: black;
+     font-size: 16px;
+}
+
+#menu-lateral ul li a:hover {
+	color: darkblue;
+	background-color:#fff;
+	font-size: 18px;
+}
+
+#menu-lateral ul li a {
+	display: block;
+	padding: 13px 30px;
+	color: #fff;
+	position: relative;
+	font-size: 16px;
+	border-bottom: 1px solid #10558D;
+	}
+
+	.section {
+	width: calc(100% - 250px);
+	margin-left: 250px;
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-left: 20px;
+
+}

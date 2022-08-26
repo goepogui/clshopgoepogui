@@ -1,0 +1,21 @@
+body {
+	background-color: rgb(14, 9, 83);
+
+}
+#contenu {
+	margin: 150px;
+	background-color: rgba(152, 145, 172, 0.6);
+	border: 3px solid white;
+	padding: 50px;
+
+}
+
+.adresse {
+    width: 400px;
+}
+.bouton {
+	margin-left: 180px;
+	position: relative;
+	margin-top: 10px;
+	
+}
